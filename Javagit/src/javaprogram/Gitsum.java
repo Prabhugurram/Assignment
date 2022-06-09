@@ -8,9 +8,13 @@ public class Gitsum {
 	int c=a+b;
 		int d=a-b;
 		int e=a/b;
+		int f=a*b;
+		
 	System.out.println("sum of two numbers: "+c); //SUM
 		System.out.println("sub of two numbers: "+d); //SUB
 		System.out.println("div of two numbers: "+e); //DIV
+		System.out.println("mult of two numbers: "+f);  //MULTIPLY
+		              // BRANCH1
 
 	}
 
