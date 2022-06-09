@@ -6,7 +6,9 @@ public class Gitsum {
 	int a=1000;
 	int b=500;
 	int c=a+b;
-	System.out.println("sum of two numbers: "+c);
+		int d=a-b;
+	System.out.println("sum of two numbers: "+c); //SUM
+		System.out.println("sub of two numbers: "+d); //SUB
 
 	}
 
